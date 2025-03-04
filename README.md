@@ -25,5 +25,6 @@ _A list of completed blog posts, useful for inspiration and ideas_
 * https://dev.to/daniels1996/plumber-s-guide-to-cloud-88
 * https://erichallow.cloud/cloud-resume-challenge-ckg1f6bhb01oiw6s1dd5399qv
 * https://alexeversmeyer.com/post/5
+* https://dev.to/fidelisesq/hosting-a-serverless-resume-website-on-aws-with-terraform-and-cicd-47gd
 
 If you want to put your post here, just send over a PR!
